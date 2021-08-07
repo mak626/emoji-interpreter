@@ -1,5 +1,6 @@
 {
   "name": "emoji-interpreter",
+  "homepage": "http://mak626/emoji-interpreter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
