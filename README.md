@@ -4,6 +4,6 @@
 - supports over 600+ emojis
 
 ### Website
-https://mak626.github.io/emoji-interpreter/
+https://2mm8w.csb.app/
 
 
